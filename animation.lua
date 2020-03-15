@@ -36,3 +36,5 @@ local anim = function(image, x_frames, y_frames, remove_frames, time_per_frame)
 
     return anim
 end
+
+return anim
